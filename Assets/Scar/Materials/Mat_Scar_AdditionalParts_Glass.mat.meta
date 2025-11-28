@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2dbd1565f1daed41b3d8ccd884c3bf1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162604
+  packageName: Scar
+  packageVersion: 1.0
+  assetPath: Assets/Scar/Materials/Mat_Scar_AdditionalParts_Glass.mat
+  uploadId: 351829

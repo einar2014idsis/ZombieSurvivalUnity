@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecb2f07d9234bff498f58b7ebb0d4b6e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162604
+  packageName: Scar
+  packageVersion: 1.0
+  assetPath: Assets/Scar/Stand/Materials/Cylinder001Mat.mat
+  uploadId: 351829

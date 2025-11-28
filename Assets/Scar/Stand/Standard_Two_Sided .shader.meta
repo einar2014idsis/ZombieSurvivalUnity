@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab7716971ba5c6d4ba42642b654e0aa1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162604
+  packageName: Scar
+  packageVersion: 1.0
+  assetPath: Assets/Scar/Stand/Standard_Two_Sided .shader
+  uploadId: 351829
